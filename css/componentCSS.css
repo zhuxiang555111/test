@@ -1,0 +1,31 @@
+body{
+  background-color: #333;
+}
+
+#component2{          /*滚动图片位置居中*/
+  padding-left: 12%;
+  padding-right: 12%;
+
+}
+
+.carousel{
+  height:20%;
+  background-color: #333;
+}
+
+.carousel.item{
+  height: 20%;      /*百分比表示 可以在移动端查看*/
+  background-color: #333;
+}
+
+.carousel-caption p{
+  margin-bottom: auto;
+  margin-top: auto;
+  font-size: 30px;
+}
+
+#component3{
+  padding-top: 2%;
+  padding-left:12%;
+  padding-right: 12%;
+}
